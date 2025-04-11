@@ -1,8 +1,8 @@
-import {Post} from './Post.jsx';
+import { Post } from './Post.jsx';
 import './assets/global.css'
 import styles from './App.module.css'
-import {Header} from "./components/Header.jsx";
-import {Sidebar} from "./components/Sidebar.jsx";
+import { Header } from "./components/Header.jsx";
+import { Sidebar } from "./components/Sidebar.jsx";
 
 export function App() {
     return (
