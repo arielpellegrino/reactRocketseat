@@ -13,12 +13,12 @@ export function App() {
                 <Sidebar />
                 <main>
                     <Post
-                        author="Ariel Pellegrino"
-                        content="Ariel Pellegrino Content test"
+                        author="Ariel Pellegrino I."
+                        content="Text POST 2"
                     />
                     <Post
                         author="Ariel Pellegrino"
-                        content="Ariel Pellegrino Content test"
+                        content="Text POST 2"
                     />
                 </main>
             </div>
