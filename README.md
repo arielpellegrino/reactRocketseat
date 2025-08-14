@@ -3,7 +3,6 @@
 Repositório dedicado apenas a armazenar o código do aprendizado. 
 
 
-*[  progress  ]*
 ![progrees](https://geps.dev/progress/30?dangerColor=b266fa&warningColor=66c4fa&successColor=66fa97)
 
 ## # Conteúdo Aprendido
